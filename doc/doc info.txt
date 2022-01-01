@@ -1,0 +1,2 @@
+Server side
+yarn add express mongoose nodemon jsonwebtoken dotenv
